@@ -1,7 +1,13 @@
 .env
 
-# Ignore the data_not_labeled
+# Ignore data_not_labeled
 data/data_not_labeled/
 
-# Ignore the data_ether 
+# Ignore data_ether 
 data/data_ether/
+
+# Ignore data_modao
+data/data_modao
+
+# Ignore data_modao.zip
+data/data_modao.zip
