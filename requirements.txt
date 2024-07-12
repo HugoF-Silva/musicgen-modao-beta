@@ -1,0 +1,2 @@
+replicate==0.28.0
+torch==2.3.1
