@@ -1,0 +1,7 @@
+.env
+
+# Ignore the data_not_labeled
+data/data_not_labeled/
+
+# Ignore the data_ether 
+data/data_ether/
